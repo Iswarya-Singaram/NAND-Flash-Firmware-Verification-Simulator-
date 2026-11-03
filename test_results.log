@@ -1,0 +1,15 @@
+NAND FLASH VERIFICATION REPORT
+
+Memory initialization: PASS
+Write operation: PASS
+Read operation: PASS
+Illegal reprogramming: PASS
+Erase operation: PASS
+Erase verification: PASS
+Bad block detection: PASS
+Address mapping: PASS
+Invalid address: PASS
+
+Total Tests: 9
+Passed: 9
+Failed: 0
